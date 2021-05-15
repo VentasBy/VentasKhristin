@@ -1,0 +1,25 @@
+body {  /* Cambiar color de fondo */
+    background: #000000; 
+    background: -webkit-linear-gradient(to right, #000000, #000000);  
+    background: linear-gradient(to right, #000000, #000000); 
+    
+  }
+  .navbar-brand {   /* cambiar la fuente de la letra UNA */
+    font-family: 'Margarine';
+    font-size: 1.2rem !important; /* Cambiar tamaño */
+  }
+  .nav-link {
+    text-transform: uppercase; /* Cambiar a mayúscula  */
+    font-family: 'Spicy Rice', cursive; /* Cambiar fuente */
+  }
+  header img { /* definir ancho de la imagen */
+    width: 200;
+    heigth: 200;
+  }
+*{
+    font-family: 'Margarine';
+    font-size: 1rem !important;
+    background: #000000; 
+   
+    /*background: linear #000000; */
+  }
